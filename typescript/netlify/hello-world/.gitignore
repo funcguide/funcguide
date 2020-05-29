@@ -1,3 +1,4 @@
 # Local Netlify folder
 .netlify
 functions/*/*.js
+yarn.lock
