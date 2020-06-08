@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/hello/(.*)",
-      "destination": "/api/?name=$1"
-    }
-  ]
-}
